@@ -18,7 +18,7 @@ Sistem sayesinde:
 
 Bu otomasyon, hem üreticilere dijital pazarlama imkânı sunmakta hem de tüketicilere sağlıklı gıdalara ulaşmada kolaylık sağlamaktadır.
 
-ideal-bellek./Otomasyon.png
+![Proje Diyagramı](diyagram/OTOMASYON.png)
 
 ---
 
