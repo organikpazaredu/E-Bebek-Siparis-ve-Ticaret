@@ -18,6 +18,8 @@ Sistem sayesinde:
 
 Bu otomasyon, hem üreticilere dijital pazarlama imkânı sunmakta hem de tüketicilere sağlıklı gıdalara ulaşmada kolaylık sağlamaktadır.
 
+Otomasyon.png
+
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
