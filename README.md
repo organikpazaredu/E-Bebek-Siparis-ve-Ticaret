@@ -1,15 +1,15 @@
-# 🥬 Organik Pazar Sistem Otomasyonu
+# E-Bebek Sipariş Sistem Otomasyonu
 
 ## 👋 Merhaba!
 
 Bu proje, Dicle Üniversitesi Teknik Bilimler Meslek Yüksekokulu öğrencileri tarafından geliştirilmiştir.  
-Organik ürünlerin satış ve sipariş süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir **web tabanlı otomasyon sistemidir**.
+Bebek ürünlerin satış ve sipariş süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir **web tabanlı otomasyon sistemidir**.
 
 ---
 
 ## 📌 Proje Tanıtımı
 
-**Organik Pazar Sistem Otomasyonu**, çiftçiler ile tüketicileri bir araya getiren dijital bir platformdur.  
+**E-bebek Sipariş Sistem Otomasyonu**, bebek ürün üreticilerini ile tüketicileri bir araya getiren dijital bir platformdur.  
 Sistem sayesinde:
 
 - Üreticiler ürün ekleyebilir,
